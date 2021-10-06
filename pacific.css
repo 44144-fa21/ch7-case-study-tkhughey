@@ -151,6 +151,6 @@ main { padding-top: 0.1em;
 #homehero, #yurthero, #trailhero { display: none; }
 
 #mobile {display: inline; }
-#desktop { display: none; }
+#desktop { display: none; } 
 
 }
